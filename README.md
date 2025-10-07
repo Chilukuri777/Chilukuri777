@@ -1,7 +1,8 @@
 
 
 
-## Hi there! 👋 I'm Poojitha Chilukuri!
+# **Hi there! 👋 I'm Poojitha Chilukuri!**
+
 
 Welcome to my GitHub profile! I’m a Computer Science graduate and Software Developer who is passionate about my work and loves building meaningful, real-world applications that make a difference.
 
