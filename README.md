@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/
 
 📫 **Contact Me**  
 
-Feel free to reach out via [email](mailto:example@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).  
+Feel free to reach out via [email](mailto:chpoojitha2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/poojitha-chilukuri-b29b94222/).  
 Let’s build something amazing together! 🚀
 
 ---
